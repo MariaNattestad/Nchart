@@ -1,5 +1,8 @@
 # N-chart
 
+![Example Nchart](example.png)
+
+
 Directions:
 
 1. Install fastalengths by running `chmod +x fastalengths` and adding it to a bin in your path, such as /usr/local/bin/
