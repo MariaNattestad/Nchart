@@ -1,6 +1,7 @@
 # N-chart
 
 Directions:
+
 1. Run fastalengths on each of your assemblies and your reference genome:
 ```
 fastalengths my_assembly.fasta > my_assembly.fasta.lengths
