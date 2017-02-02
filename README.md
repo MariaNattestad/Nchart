@@ -1,6 +1,7 @@
 # N-chart
 
 Directions:
+
 1. Install fastalengths by running `chmod +x fastalengths` and adding it to a bin in your path, such as /usr/local/bin/
 
 2. Run fastalengths on each of your assemblies and your reference genome:
